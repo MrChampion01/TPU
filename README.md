@@ -1,8 +1,14 @@
+Here's a revised version of your README to make it look nicer:
+
 # TPU
-TPU, The Test Processing Unit. Or Terrible Processing Unit. A simple 16-bit CPU in VHDL for education as to the dataflow within a CPU. Designed to run on miniSpartan6+.
 
-Some code in vhdl/top and vhdl/dvid is not owned by myself. Please refer to those files for information.
+TPU, The Test Processing Unit, or Terrible Processing Unit, is a simple 16-bit CPU written in VHDL. It serves as an educational tool to demonstrate the dataflow within a CPU and is designed to run on the miniSpartan6+.
 
-This is implemented with ISE Webpack (The free Xilinx tools) however the project is not committed here - yet. 
+**Note:** Some code in the `vhdl/top` and `vhdl/dvid` directories is not owned by me. Please refer to those files for more information.
 
-This is the implementation being written about over at http://labs.domipheus.com/blog/category/projects/tpu/
+The original implementation is described in detail at [Domipheus Labs](http://labs.domipheus.com/blog/category/projects/tpu/).
+
+All credit goes to Domipheus for the idea and project. This fork is for me to follow along and make updates as I progress through each part.
+
+**Currently on Part 8:** [Designing a CPU in VHDL - Part 8: Revisiting the ISA, Function Calling, Assembler](https://domipheus.com/blog/designing-a-cpu-in-vhdl-part-8-revisiting-the-isa-function-calling-assembler/)
+
