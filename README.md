@@ -1,5 +1,3 @@
-Here's a revised version of your README to make it look nicer:
-
 # TPU
 
 TPU, The Test Processing Unit, or Terrible Processing Unit, is a simple 16-bit CPU written in VHDL. It serves as an educational tool to demonstrate the dataflow within a CPU and is designed to run on the miniSpartan6+.
